@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="io.github.maksimn.reversi" version="1.0.0">
+    <name>Reversi</name>
+    <description>
+        Reversi Game
+    </description>
+    <author email="maksim1989sovunion@yandex.ru" href="http://maksimn.github.io">
+        Maxim Ivanov
+    </author>
+	<icon src="icon.png" />
+    <platform name="android">
+        <icon density="ldpi" src="www/icon/android/ldpi-icon.png" />
+        <icon density="mdpi" src="www/icon/android/mdpi-icon.png" />
+        <icon density="hdpi" src="www/icon/android/hdpi-icon.png" />
+        <icon density="xhdpi" src="www/icon/android/xhdpi-icon.png" />
+        <icon density="xxhdpi" src="www/icon/android/xxhdpi-icon.png" />
+        <icon density="xxxhdpi" src="www/icon/android/xxxhdpi-icon.png" />
+    </platform>
+    <engine name="android" spec="~5.1.1" />
+</widget>
